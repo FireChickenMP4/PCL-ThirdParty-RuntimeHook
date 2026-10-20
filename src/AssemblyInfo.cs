@@ -1,0 +1,5 @@
+[assembly: System.Reflection.AssemblyTitle("PCL Third-Party Runtime Hook")]
+[assembly: System.Reflection.AssemblyDescription("Runtime hook for Plain Craft Launcher 2")]
+[assembly: System.Reflection.AssemblyVersion("1.0.0.0")]
+[assembly: System.Reflection.AssemblyFileVersion("1.0.0.0")]
+[assembly: System.Security.SecurityRules(System.Security.SecurityRuleSet.Level1)]
